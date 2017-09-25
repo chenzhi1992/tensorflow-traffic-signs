@@ -21,3 +21,16 @@ Data processing and augmentation:
 
 CNN Network:
 
+input(48 * 48) 
+
+conv1(5 * 5) -> relu -> max_pooling1(2 * 2)
+
+conv2(5 * 5) -> relu -> max_pooling2(2 * 2)
+
+conv3(5 * 5) -> relu -> max_pooling3(2 * 2)
+
+flatten max_pooling1 + max_pooling2 + max_pooling3
+
+fully connected layer1 (1024)
+fully connected layer2 (43)
+
