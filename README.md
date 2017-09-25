@@ -21,5 +21,3 @@ Data processing and augmentation:
 
 CNN Network:
 
-	
-
