@@ -56,6 +56,11 @@ train.py: train the network
 predict.py: predict the test images and predict one image code
 
 
+Requirements
+
+Python 3.5 or 2.7
+
+Tensorflow 1.2(>1.0)
 
 注: 欢迎指正讨论.
 
