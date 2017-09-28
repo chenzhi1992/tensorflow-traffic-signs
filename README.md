@@ -9,7 +9,7 @@ Introduction:
 
 2.The highlights of this solution would be data preprocessing, data augmentation, and skipping connections in the network.
 
-3.The accuracy on the German Traffic Sign Dataset is reaching 98.82% accuracy at present, and this can still be improved
+3.The accuracy on the German Traffic Sign Dataset is reaching 98.97% accuracy at present, and this can still be improved
 
 
 ==================================================================================================
